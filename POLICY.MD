@@ -1,10 +1,10 @@
 # Privacybeleid S.V. Syntax
 
- _Versie 0.1_
+ _Versie 1.0_
 
 Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze website gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.
 
-Dit privacybeleid is van toepassing op de diensten van _S.V. Syntax_. U dient zich ervan bewust te zijn dat _S.V. Syntax _niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.
+Dit privacybeleid is van toepassing op de diensten van _S.V. Syntax_. U dient zich ervan bewust te zijn dat _S.V. Syntax_ niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.
 
 _S.V. Syntax_ respecteert de privacy van alle gebruikers van haar site en draagt er zorg voor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
 
