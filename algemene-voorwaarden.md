@@ -36,11 +36,15 @@ In deze voorwaarden wordt verstaan onder:
  
 ## Artikel 2 - Identiteit van de ondernemer
 
-> Studievereniging Syntax
-> Delftstraat 52 0420 
-> 2015 BM Haarlem
-> E-mailadres: bestuur@syntaxleiden.nl
-> KvK-nummer: 60302445
+Studievereniging Syntax
+
+Delftstraat 52 0420 
+
+2015 BM, Haarlem
+
+E-mailadres: bestuur@syntaxleiden.nl
+
+KvK-nummer: 60302445
 
 ## Artikel 3 - Toepasselijkheid
 
