@@ -36,11 +36,11 @@ In deze voorwaarden wordt verstaan onder:
  
 ## Artikel 2 - Identiteit van de ondernemer
 
-    Studievereniging Syntax
-    Delftstraat 52 0420 
-    2015 BM Haarlem
-    E-mailadres: bestuur@syntaxleiden.nl
-    KvK-nummer: 60302445
+> Studievereniging Syntax
+> Delftstraat 52 0420 
+> 2015 BM Haarlem
+> E-mailadres: bestuur@syntaxleiden.nl
+> KvK-nummer: 60302445
 
 ## Artikel 3 - Toepasselijkheid
 
@@ -74,11 +74,11 @@ In deze voorwaarden wordt verstaan onder:
 3. Indien de overeenkomst elektronisch tot stand komt, treft de ondernemer passende technische en organisatorische maatregelen ter beveiliging van de elektronische overdracht van data en zorgt hij voor een veilige webomgeving. Indien de consument elektronisch kan betalen, zal de ondernemer daartoe passende veiligheidsmaatregelen in acht nemen.
 4. De ondernemer kan zich - binnen wettelijke kaders - op de hoogte stellen of de consument aan zijn betalingsverplichtingen kan voldoen, alsmede van al die feiten en factoren die van belang zijn voor een verantwoord aangaan van de overeenkomst op afstand. Indien de ondernemer op grond van dit onderzoek goede gronden heeft om de overeenkomst niet aan te gaan, is hij gerechtigd gemotiveerd een bestelling of aanvraag te weigeren of aan de uitvoering bijzondere voorwaarden te verbinden.
 5. De ondernemer zal bij het product of dienst aan de consument de volgende informatie, schriftelijk of op zodanige wijze dat deze door de consument op een toegankelijke manier kan worden opgeslagen op een duurzame gegevensdrager, meesturen:
-a. het bezoekadres van de vestiging van de ondernemer waar de consument met klachten terecht kan;
-b. de voorwaarden waaronder en de wijze waarop de consument van het herroepingsrecht gebruik kan maken, dan wel een duidelijke melding inzake het uitgesloten zijn van het herroepingsrecht;
-c. de informatie over garanties en bestaande service na aankoop;
-d. de in artikel 4 lid 3 van deze voorwaarden opgenomen gegevens, tenzij de ondernemer deze gegevens al aan de consument heeft verstrekt vóór de uitvoering van de overeenkomst;
-e. de vereisten voor opzegging van de overeenkomst indien de overeenkomst een duur heeft van meer dan één jaar of van onbepaalde duur is.
+	* het bezoekadres van de vestiging van de ondernemer waar de consument met klachten terecht kan;
+	* de voorwaarden waaronder en de wijze waarop de consument van het herroepingsrecht gebruik kan maken, dan wel een duidelijke melding inzake het uitgesloten zijn van het herroepingsrecht;
+	* de informatie over garanties en bestaande service na aankoop;
+	* de in artikel 4 lid 3 van deze voorwaarden opgenomen gegevens, tenzij de ondernemer deze gegevens al aan de consument heeft verstrekt vóór de uitvoering van de overeenkomst;
+	* de vereisten voor opzegging van de overeenkomst indien de overeenkomst een duur heeft van meer dan één jaar of van onbepaalde duur is.
 6. In geval van een duurtransactie is de bepaling in het vorige lid slechts van toepassing op de eerste levering.
  
 ## Artikel 6 - Herroepingsrecht
